@@ -10,9 +10,9 @@ I'm an IT student passionate about cybersecurity and software development.
 - Tools: Linux (Kali), Git
 
 ## 🚀 Projects:
-- [ARID](https://github.com/pastaLavista5/Agumented-Reality-in-Disguise-ARID-) - A QR code scanning system that retrieves hidden messages.
-- [ThreadTalk](https://github.com/pastaLavista5/ThreadTalk) - Server-Client Communication Protocol with the use of Threads.
-- [Password Validation System](https://github.com/pastaLavista5/weakPass) - A system to validate passwords based on specific rules.
+- [ARID](https://github.com/Aamir-Basha/Agumented-Reality-in-Disguise-ARID-) - A QR code scanning system that retrieves hidden messages.
+- [ThreadTalk](https://github.com/Aamir-Basha/ThreadTalk) - Server-Client Communication Protocol with the use of Threads.
+- [Password Validation System](https://github.com/Aamir-Basha/weakPass) - A system to validate passwords based on specific rules.
 
 ## 📫 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/aamir-basha-a94860311/)
