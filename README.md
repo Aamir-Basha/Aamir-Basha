@@ -13,7 +13,7 @@ I'm an IT student passionate about cybersecurity and software development.
 - [SDV-Diag.](https://github.com/Aamir-Basha/SDV-Diagnostics) - Developing software solutions for software-defined vehicles. 
 - [ARID](https://github.com/Aamir-Basha/Agumented-Reality-in-Disguise-ARID-) - A QR code scanning system that retrieves hidden messages.
 - [ThreadTalk](https://github.com/Aamir-Basha/ThreadTalk) - Server-Client Communication Protocol with the use of Threads.
-- [alraha-gc.com](alraha-gc.com) - Website for Alraha-gc.
+- [alraha-gc.com](https://alraha-gc.com/) - Website for Alraha-gc.
 - [Password Validation System](https://github.com/Aamir-Basha/weakPass) - A system to validate passwords based on specific rules.
 
 
